@@ -1,0 +1,11 @@
+torchvision 0.17.2
+open-cv 4.11.0.86
+python 3.9.23
+pandas 2.2.3
+numpy 1.26.4
+insightface 0.7.3
+albumentations 2.0.8
+tqdm 4.67.1
+pytorch cu+121
+cuda 12.8
+webdataset  0.2.100
